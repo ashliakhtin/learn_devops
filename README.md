@@ -16,6 +16,9 @@ https://hub.docker.com/repository/docker/axelshin757/custom-nginx/general
 ![Снимок экрана от 2024-08-06 13-10-02](https://github.com/user-attachments/assets/0374b4ea-ecb1-428f-9f6e-60c8d197fdb3)
 
 Задача 4:
+![Снимок экрана от 2024-08-06 14-46-26](https://github.com/user-attachments/assets/67b043ff-2b7e-459b-9470-b5a2a02769a1)
+
+Задача 5:
 
 
 
