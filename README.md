@@ -2,8 +2,12 @@
 https://hub.docker.com/repository/docker/axelshin757/custom-nginx/general
 
 Задача 2:
-![Снимок экрана от 2024-08-06 11-21-39](https://github.com/user-attachments/assets/a997e773-755e-499d-a931-dc66e18969a6)
-![Снимок экрана от 2024-08-06 11-25-40](https://github.com/user-attachments/assets/fd12b242-a8dc-4c00-85a5-85c7dbd45e39)
+![Снимок экрана от 2024-08-06 12-43-34](https://github.com/user-attachments/assets/a36c6b10-3bcc-4f59-8b5c-d95be922f614)
+
+Задача 3:
+
+Объяснение: Когда нажимается Ctrl-C, это посылает сигнал SIGINT процессу внутри контейнера. По умолчанию этот сигнал завершает процесс, что привело к остановке контейнера.
+![Снимок экрана от 2024-08-06 12-53-17](https://github.com/user-attachments/assets/cc469769-f20b-4302-9b40-603153a594d4)
 
 
 
