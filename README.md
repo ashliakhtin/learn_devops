@@ -19,6 +19,12 @@ https://hub.docker.com/repository/docker/axelshin757/custom-nginx/general
 ![Снимок экрана от 2024-08-06 14-46-26](https://github.com/user-attachments/assets/67b043ff-2b7e-459b-9470-b5a2a02769a1)
 
 Задача 5:
+![Снимок экрана от 2024-08-07 15-49-59](https://github.com/user-attachments/assets/a23dacbc-c0b0-4344-ac67-79c69ba0b74b)
+![Снимок экрана от 2024-08-07 16-04-58](https://github.com/user-attachments/assets/e042db78-b35e-4d01-825d-06a71693144c)
+Примечание: порт 9090 у меня задействован под прометеус и графану поэтому nginx запустил на порту 8089
+
+
+
 
 
 
